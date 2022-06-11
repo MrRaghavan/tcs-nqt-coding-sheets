@@ -33,6 +33,6 @@
    <li><a href="" target="_blank" rel="noreferrer noopener">Program to add two fractions</a></li>
    <li><a href="" target="_blank" rel="noreferrer noopener">Replace all 0s with 1s in a given integer</a></li>
    <li><a href="" target="_blank" rel="noreferrer noopener" title="Can a number be expressed as a sum of two prime numbers">Can a number be expressed as a sum of two prime numbers</a></li>
-   <li><a href="" target="_blank" rel="noreferrer noopener">Calculate the area of circle</a></li>
+   <li><a href="https://github.com/MrRaghavan/tcs-nqt-coding-sheets/blob/master/ProblemsOnNumbers/src/CircleArea.java" target="_blank" rel="noreferrer noopener">Calculate the area of circle</a></li>
    <li><a href="" target="_blank" rel="noreferrer noopener">Program to find roots of a Quadratic Equation</a></li>
 </ol>
